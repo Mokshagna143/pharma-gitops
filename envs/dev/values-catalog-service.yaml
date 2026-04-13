@@ -5,7 +5,7 @@ replicaCount: 1
 fullnameOverride: drug-catalog-service
 
 image:
-  repository: 707082329914.dkr.ecr.us-east-1.amazonaws.com/catalog-service
+  repository: 707082329914.dkr.ecr.us-east-1.amazonaws.com/drug-catalog-service
   tag: v1.0.0
   pullPolicy: Always
 
